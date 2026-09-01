@@ -23,7 +23,7 @@ jobs:
           repositories_affiliations: ""
 
           # Lines
-          plugin_lines: yes
+          plugin_lines: no
 
           # Recent activity
           # plugin_activity: yes
